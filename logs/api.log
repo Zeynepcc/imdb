@@ -1,0 +1,855 @@
+26-08-2023 02:00:08.306 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+26-08-2023 02:00:08.308 [Gauge] [INFO] Initializing specs cache with 1 specs
+26-08-2023 02:00:08.308 [Gauge] [DEBUG] Adding specs from /Users/zeynepturhan/Documents/GitHub/imdb/specs/example.spec
+26-08-2023 02:00:08.308 [Gauge] [INFO] Initializing steps cache with 1 steps
+26-08-2023 02:00:08.308 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49277
+26-08-2023 02:00:08.308 [Gauge] [DEBUG] Watching directory: /Users/zeynepturhan/Documents/GitHub/imdb/specs
+26-08-2023 02:00:08.308 [Gauge] [DEBUG] Found 1 files
+26-08-2023 02:09:28.547 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Open the Gauge homepage"}
+26-08-2023 02:09:28.547 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"}}
+26-08-2023 02:09:28.648 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+26-08-2023 02:09:28.648 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"}}
+26-08-2023 02:09:28.701 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ensure installation instructions are available"}
+26-08-2023 02:09:28.701 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:13:59.536 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"A"}
+26-08-2023 02:13:59.536 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"A" parameterizedStepValue:"A"}}
+26-08-2023 02:13:59.567 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:13:59.567 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:13:59.573 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:13:59.573 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:00.517 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.517 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.518 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.518 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.568 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.568 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.571 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.571 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.611 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.611 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.612 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.612 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.656 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.656 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.658 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.658 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.759 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.759 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.761 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.806 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.806 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.806 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.806 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.849 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.849 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.850 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.850 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:00.850 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:00.850 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.063 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:01.064 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:01.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:01.119 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.136 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:01.136 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.138 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:01.139 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.190 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:01.191 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:01.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:01.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.204 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:14:01.204 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:14:01.289 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:01.289 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:01.290 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:01.290 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:02.621 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ar"}
+26-08-2023 02:14:02.622 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ar" parameterizedStepValue:"Ar"}}
+26-08-2023 02:14:02.836 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ara"}
+26-08-2023 02:14:02.836 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ara" parameterizedStepValue:"Ara"}}
+26-08-2023 02:14:02.938 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Aram"}
+26-08-2023 02:14:02.938 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Aram" parameterizedStepValue:"Aram"}}
+26-08-2023 02:14:02.996 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama"}
+26-08-2023 02:14:02.997 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama" parameterizedStepValue:"Arama"}}
+26-08-2023 02:14:06.220 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama ç"}
+26-08-2023 02:14:06.220 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama ç" parameterizedStepValue:"Arama ç"}}
+26-08-2023 02:14:06.228 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:06.228 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"}}
+26-08-2023 02:14:06.228 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:06.228 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:06.229 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:06.229 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:06.230 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:06.230 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:07.274 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama c"}
+26-08-2023 02:14:07.275 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama c" parameterizedStepValue:"Arama c"}}
+26-08-2023 02:14:07.281 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:07.281 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:07.284 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:07.284 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:07.286 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:07.286 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:07.287 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:07.287 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:07.481 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cu"}
+26-08-2023 02:14:07.481 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cu" parameterizedStepValue:"Arama cu"}}
+26-08-2023 02:14:07.895 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubu"}
+26-08-2023 02:14:07.895 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubu" parameterizedStepValue:"Arama cubu"}}
+26-08-2023 02:14:08.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubug"}
+26-08-2023 02:14:08.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubug" parameterizedStepValue:"Arama cubug"}}
+26-08-2023 02:14:08.497 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugu"}
+26-08-2023 02:14:08.497 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugu" parameterizedStepValue:"Arama cubugu"}}
+26-08-2023 02:14:08.864 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugun"}
+26-08-2023 02:14:08.864 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugun" parameterizedStepValue:"Arama cubugun"}}
+26-08-2023 02:14:09.085 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunu"}
+26-08-2023 02:14:09.085 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunu" parameterizedStepValue:"Arama cubugunu"}}
+26-08-2023 02:14:09.264 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun"}
+26-08-2023 02:14:09.264 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun" parameterizedStepValue:"Arama cubugunun"}}
+26-08-2023 02:14:12.333 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun s"}
+26-08-2023 02:14:12.333 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun s" parameterizedStepValue:"Arama cubugunun s"}}
+26-08-2023 02:14:12.343 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:12.344 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"}}
+26-08-2023 02:14:12.344 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:12.344 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:12.346 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:12.346 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:12.346 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:12.346 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:12.447 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun so"}
+26-08-2023 02:14:12.448 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun so" parameterizedStepValue:"Arama cubugunun so"}}
+26-08-2023 02:14:12.624 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol"}
+26-08-2023 02:14:12.624 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol" parameterizedStepValue:"Arama cubugunun sol"}}
+26-08-2023 02:14:13.228 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol t"}
+26-08-2023 02:14:13.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol t" parameterizedStepValue:"Arama cubugunun sol t"}}
+26-08-2023 02:14:13.236 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:13.236 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"}}
+26-08-2023 02:14:13.236 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:13.237 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:13.237 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:13.237 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:13.238 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:13.238 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:13.486 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol ta"}
+26-08-2023 02:14:13.486 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol ta" parameterizedStepValue:"Arama cubugunun sol ta"}}
+26-08-2023 02:14:13.661 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tar"}
+26-08-2023 02:14:13.661 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tar" parameterizedStepValue:"Arama cubugunun sol tar"}}
+26-08-2023 02:14:13.910 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tara"}
+26-08-2023 02:14:13.910 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tara" parameterizedStepValue:"Arama cubugunun sol tara"}}
+26-08-2023 02:14:14.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol taraf"}
+26-08-2023 02:14:14.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol taraf" parameterizedStepValue:"Arama cubugunun sol taraf"}}
+26-08-2023 02:14:14.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafn"}
+26-08-2023 02:14:14.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafn" parameterizedStepValue:"Arama cubugunun sol tarafn"}}
+26-08-2023 02:14:15.066 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafi"}
+26-08-2023 02:14:15.066 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafi" parameterizedStepValue:"Arama cubugunun sol tarafi"}}
+26-08-2023 02:14:15.074 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:15.074 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:15.074 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:15.074 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:15.075 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:15.075 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:15.075 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:15.076 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:15.315 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafin"}
+26-08-2023 02:14:15.315 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafin" parameterizedStepValue:"Arama cubugunun sol tarafin"}}
+26-08-2023 02:14:15.421 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafind"}
+26-08-2023 02:14:15.421 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafind" parameterizedStepValue:"Arama cubugunun sol tarafind"}}
+26-08-2023 02:14:15.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda"}
+26-08-2023 02:14:15.595 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda" parameterizedStepValue:"Arama cubugunun sol tarafinda"}}
+26-08-2023 02:14:17.710 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda b"}
+26-08-2023 02:14:17.710 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda b" parameterizedStepValue:"Arama cubugunun sol tarafinda b"}}
+26-08-2023 02:14:17.718 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:17.718 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:17.718 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:17.718 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:17.719 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:17.719 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"}}
+26-08-2023 02:14:17.720 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:17.720 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:17.977 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bu"}
+26-08-2023 02:14:17.977 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bu" parameterizedStepValue:"Arama cubugunun sol tarafinda bu"}}
+26-08-2023 02:14:18.247 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bul"}
+26-08-2023 02:14:18.247 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bul" parameterizedStepValue:"Arama cubugunun sol tarafinda bul"}}
+26-08-2023 02:14:18.463 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulu"}
+26-08-2023 02:14:18.463 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulu" parameterizedStepValue:"Arama cubugunun sol tarafinda bulu"}}
+26-08-2023 02:14:18.653 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulun"}
+26-08-2023 02:14:18.653 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulun" parameterizedStepValue:"Arama cubugunun sol tarafinda bulun"}}
+26-08-2023 02:14:18.750 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda buluna"}
+26-08-2023 02:14:18.751 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda buluna" parameterizedStepValue:"Arama cubugunun sol tarafinda buluna"}}
+26-08-2023 02:14:18.810 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan"}
+26-08-2023 02:14:18.810 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan"}}
+26-08-2023 02:14:20.769 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan '"}
+26-08-2023 02:14:20.769 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan '" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan '"}}
+26-08-2023 02:14:21.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'M"}
+26-08-2023 02:14:21.316 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'M" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'M"}}
+26-08-2023 02:14:21.328 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:21.328 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"}}
+26-08-2023 02:14:21.328 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:21.329 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:21.330 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:21.330 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"}}
+26-08-2023 02:14:21.331 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:21.331 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:21.404 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Me"}
+26-08-2023 02:14:21.405 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Me" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Me"}}
+26-08-2023 02:14:21.409 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:21.409 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:21.410 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:21.410 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:21.412 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:21.412 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"} allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"}}
+26-08-2023 02:14:21.413 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:21.413 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:21.472 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Men"}
+26-08-2023 02:14:21.472 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Men" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Men"}}
+26-08-2023 02:14:21.612 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu"}
+26-08-2023 02:14:21.612 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu"}}
+26-08-2023 02:14:22.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu'"}
+26-08-2023 02:14:22.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu'" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu'"}}
+26-08-2023 02:14:23.564 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' b"}
+26-08-2023 02:14:23.564 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' b" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' b"}}
+26-08-2023 02:14:23.571 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:23.571 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:23.571 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:23.571 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:23.572 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:23.572 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:23.572 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:23.572 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:23.672 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' bu"}
+26-08-2023 02:14:23.672 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' bu" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' bu"}}
+26-08-2023 02:14:23.812 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' but"}
+26-08-2023 02:14:23.812 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' but" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' but"}}
+26-08-2023 02:14:23.950 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' buto"}
+26-08-2023 02:14:23.950 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' buto" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' buto"}}
+26-08-2023 02:14:24.129 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' buton"}
+26-08-2023 02:14:24.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' buton" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' buton"}}
+26-08-2023 02:14:24.266 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonu"}
+26-08-2023 02:14:24.267 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonu" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonu"}}
+26-08-2023 02:14:24.405 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonun"}
+26-08-2023 02:14:24.405 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonun" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonun"}}
+26-08-2023 02:14:24.554 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna"}
+26-08-2023 02:14:24.554 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna"}}
+26-08-2023 02:14:24.839 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna b"}
+26-08-2023 02:14:24.840 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna b" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna b"}}
+26-08-2023 02:14:24.848 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:24.848 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:24.848 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:24.848 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:24.849 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:14:24.849 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage"} allSteps:{stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page"} allSteps:{stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available"}}
+26-08-2023 02:14:24.849 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:14:24.849 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:14:24.953 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna ba"}
+26-08-2023 02:14:24.954 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna ba" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna ba"}}
+26-08-2023 02:14:25.150 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bas"}
+26-08-2023 02:14:25.150 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bas" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bas"}}
+26-08-2023 02:14:25.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bası"}
+26-08-2023 02:14:25.206 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bası" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bası"}}
+26-08-2023 02:14:25.388 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basıl"}
+26-08-2023 02:14:25.388 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basıl" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basıl"}}
+26-08-2023 02:14:25.569 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılı"}
+26-08-2023 02:14:25.569 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılı" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılı"}}
+26-08-2023 02:14:25.631 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır"}
+26-08-2023 02:14:25.631 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır"}}
+26-08-2023 02:15:45.299 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/example.spec
+26-08-2023 02:19:06.097 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+26-08-2023 02:19:06.097 [Gauge] [DEBUG] Spec file removed: /Users/zeynepturhan/Documents/GitHub/imdb/specs/example.spec
+26-08-2023 02:24:45.061 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+26-08-2023 02:24:45.860 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+26-08-2023 02:24:46.920 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:46.920 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:46.924 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:46.924 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.010 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.011 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.061 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.061 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.061 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.061 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.062 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.062 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.222 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.222 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.233 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.233 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.234 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.234 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.300 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.300 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.349 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.349 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:47.350 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:47.350 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.003 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.003 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.004 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.004 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.091 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.091 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.191 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.191 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.191 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.191 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.239 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.239 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.240 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.240 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.278 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.278 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:48.279 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+26-08-2023 02:24:48.279 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+26-08-2023 02:24:49.512 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"I"}
+26-08-2023 02:24:49.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"I" parameterizedStepValue:"I"}}
+26-08-2023 02:24:49.524 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:24:49.524 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır"}}
+26-08-2023 02:24:49.525 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:24:49.525 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:24:49.769 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Im"}
+26-08-2023 02:24:49.769 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Im" parameterizedStepValue:"Im"}}
+26-08-2023 02:24:50.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imd"}
+26-08-2023 02:24:50.042 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imd" parameterizedStepValue:"Imd"}}
+26-08-2023 02:24:50.783 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb"}
+26-08-2023 02:24:50.783 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb" parameterizedStepValue:"Imdb"}}
+26-08-2023 02:24:51.560 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb s"}
+26-08-2023 02:24:51.560 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb s" parameterizedStepValue:"Imdb s"}}
+26-08-2023 02:24:51.568 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:24:51.568 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır"}}
+26-08-2023 02:24:51.569 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:24:51.569 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:24:51.570 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:24:51.570 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır"}}
+26-08-2023 02:24:51.571 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:24:51.571 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:24:51.751 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sa"}
+26-08-2023 02:24:51.751 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sa" parameterizedStepValue:"Imdb sa"}}
+26-08-2023 02:24:52.021 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb say"}
+26-08-2023 02:24:52.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb say" parameterizedStepValue:"Imdb say"}}
+26-08-2023 02:24:52.820 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayf"}
+26-08-2023 02:24:52.820 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayf" parameterizedStepValue:"Imdb sayf"}}
+26-08-2023 02:24:53.063 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfa"}
+26-08-2023 02:24:53.063 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfa" parameterizedStepValue:"Imdb sayfa"}}
+26-08-2023 02:24:53.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfas"}
+26-08-2023 02:24:53.203 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfas" parameterizedStepValue:"Imdb sayfas"}}
+26-08-2023 02:24:53.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfası"}
+26-08-2023 02:24:53.340 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfası" parameterizedStepValue:"Imdb sayfası"}}
+26-08-2023 02:24:53.637 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfası a"}
+26-08-2023 02:24:53.637 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfası a" parameterizedStepValue:"Imdb sayfası a"}}
+26-08-2023 02:24:53.644 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:24:53.644 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır"}}
+26-08-2023 02:24:53.644 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:24:53.644 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:24:53.645 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+26-08-2023 02:24:53.645 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır"}}
+26-08-2023 02:24:53.646 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+26-08-2023 02:24:53.646 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+26-08-2023 02:24:53.791 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfası aç"}
+26-08-2023 02:24:53.791 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfası aç" parameterizedStepValue:"Imdb sayfası aç"}}
+26-08-2023 02:24:53.976 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfası açı"}
+26-08-2023 02:24:53.976 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfası açı" parameterizedStepValue:"Imdb sayfası açı"}}
+26-08-2023 02:24:54.171 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfası açıl"}
+26-08-2023 02:24:54.171 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfası açıl" parameterizedStepValue:"Imdb sayfası açıl"}}
+26-08-2023 02:24:54.347 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfası açılı"}
+26-08-2023 02:24:54.347 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfası açılı" parameterizedStepValue:"Imdb sayfası açılı"}}
+26-08-2023 02:24:54.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfası açılır"}
+26-08-2023 02:24:54.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfası açılır" parameterizedStepValue:"Imdb sayfası açılır"}}
+26-08-2023 02:27:16.535 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+28-08-2023 11:01:02.550 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+28-08-2023 11:01:02.554 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-08-2023 11:01:02.554 [Gauge] [DEBUG] Adding specs from /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+28-08-2023 11:01:02.554 [Gauge] [INFO] Initializing steps cache with 1 steps
+28-08-2023 11:01:02.555 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49310
+28-08-2023 11:01:02.556 [Gauge] [DEBUG] Watching directory: /Users/zeynepturhan/Documents/GitHub/imdb/specs
+28-08-2023 11:01:02.556 [Gauge] [DEBUG] Found 1 files
+28-08-2023 23:24:47.568 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfası açılır"}
+28-08-2023 23:24:47.568 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfası açılır" parameterizedStepValue:"Imdb sayfası açılır"}}
+28-08-2023 23:24:47.740 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır"}
+28-08-2023 23:24:47.740 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basılır"}}
+28-08-2023 23:25:14.003 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+28-08-2023 23:31:47.633 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+28-08-2023 23:31:47.634 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-08-2023 23:31:47.635 [Gauge] [DEBUG] Adding specs from /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+28-08-2023 23:31:47.635 [Gauge] [INFO] Initializing steps cache with 1 steps
+28-08-2023 23:31:47.635 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49968
+28-08-2023 23:31:47.635 [Gauge] [DEBUG] Watching directory: /Users/zeynepturhan/Documents/GitHub/imdb/specs
+28-08-2023 23:31:47.635 [Gauge] [DEBUG] Found 1 files
+28-08-2023 23:32:53.743 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasıaçılır"}
+28-08-2023 23:32:53.744 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasıaçılır" parameterizedStepValue:"Imdb sayfasıaçılır"}}
+28-08-2023 23:32:55.237 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasaçılır"}
+28-08-2023 23:32:55.237 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasaçılır" parameterizedStepValue:"Imdb sayfasaçılır"}}
+28-08-2023 23:32:55.679 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasiaçılır"}
+28-08-2023 23:32:55.679 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasiaçılır" parameterizedStepValue:"Imdb sayfasiaçılır"}}
+28-08-2023 23:32:56.127 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasi açılır"}
+28-08-2023 23:32:56.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasi açılır" parameterizedStepValue:"Imdb sayfasi açılır"}}
+28-08-2023 23:32:58.569 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasi a"}
+28-08-2023 23:32:58.569 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasi a" parameterizedStepValue:"Imdb sayfasi a"}}
+28-08-2023 23:32:58.624 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+28-08-2023 23:32:58.624 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfası açılır" parameterizedStepValue:"Imdb sayfası açılır"}}
+28-08-2023 23:32:58.629 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+28-08-2023 23:32:58.629 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+28-08-2023 23:32:58.668 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+28-08-2023 23:32:58.668 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfası açılır" parameterizedStepValue:"Imdb sayfası açılır"}}
+28-08-2023 23:32:58.669 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+28-08-2023 23:32:58.669 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+28-08-2023 23:32:58.829 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasi ac"}
+28-08-2023 23:32:58.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasi ac" parameterizedStepValue:"Imdb sayfasi ac"}}
+28-08-2023 23:32:58.969 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasi aci"}
+28-08-2023 23:32:58.969 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasi aci" parameterizedStepValue:"Imdb sayfasi aci"}}
+28-08-2023 23:32:59.150 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasi acil"}
+28-08-2023 23:32:59.150 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasi acil" parameterizedStepValue:"Imdb sayfasi acil"}}
+28-08-2023 23:32:59.298 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasi acili"}
+28-08-2023 23:32:59.298 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasi acili" parameterizedStepValue:"Imdb sayfasi acili"}}
+28-08-2023 23:33:00.390 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Imdb sayfasi acilir"}
+28-08-2023 23:33:00.390 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"}}
+28-08-2023 23:33:19.963 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+28-08-2023 23:37:45.042 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+28-08-2023 23:50:22.805 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bası"}
+28-08-2023 23:50:22.805 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bası" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bası"}}
+28-08-2023 23:50:23.179 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bas"}
+28-08-2023 23:50:23.179 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bas" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna bas"}}
+28-08-2023 23:50:24.516 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"}
+28-08-2023 23:50:24.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"}}
+28-08-2023 23:50:33.505 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+28-08-2023 23:50:33.904 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:33.904 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:33.917 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:33.917 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.043 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.043 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.089 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.089 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.089 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.089 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.134 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.134 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.143 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.143 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.144 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.144 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.195 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.195 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.204 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.204 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.207 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.207 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:34.208 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+28-08-2023 23:50:34.208 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+28-08-2023 23:50:55.678 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+28-08-2023 23:56:04.475 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+28-08-2023 23:56:22.792 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+29-08-2023 00:01:17.642 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+29-08-2023 00:03:00.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.669 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:00.677 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.677 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:00.801 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.801 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:00.802 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.802 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:00.853 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.853 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:00.854 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.854 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:00.854 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.854 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:00.972 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.972 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:00.978 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.978 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:00.979 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:00.980 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:01.063 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:01.063 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:01.064 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:01.064 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:01.122 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:01.122 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:01.122 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:01.122 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.476 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.477 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.538 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.539 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.607 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.608 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.608 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.762 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.832 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.832 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.832 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.832 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:24.894 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:24.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:28.538 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:28.538 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:28.539 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:28.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:28.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:28.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:28.604 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:28.604 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:28.739 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:28.739 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:28.740 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:28.740 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:28.807 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:28.807 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:28.808 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:03:28.808 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:03:29.017 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"O"}
+29-08-2023 00:03:29.017 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"O" parameterizedStepValue:"O"}}
+29-08-2023 00:03:29.026 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:03:29.026 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"}}
+29-08-2023 00:03:29.027 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:03:29.027 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:03:29.584 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Os"}
+29-08-2023 00:03:29.584 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Os" parameterizedStepValue:"Os"}}
+29-08-2023 00:03:29.775 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Osc"}
+29-08-2023 00:03:29.775 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Osc" parameterizedStepValue:"Osc"}}
+29-08-2023 00:03:30.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Osca"}
+29-08-2023 00:03:30.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Osca" parameterizedStepValue:"Osca"}}
+29-08-2023 00:03:30.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar"}
+29-08-2023 00:03:30.462 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar" parameterizedStepValue:"Oscar"}}
+29-08-2023 00:03:31.624 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar b"}
+29-08-2023 00:03:31.624 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar b" parameterizedStepValue:"Oscar b"}}
+29-08-2023 00:03:31.631 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:03:31.632 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"}}
+29-08-2023 00:03:31.632 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:03:31.632 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:03:31.633 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:03:31.633 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"}}
+29-08-2023 00:03:31.633 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:03:31.633 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:03:31.811 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar bu"}
+29-08-2023 00:03:31.811 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar bu" parameterizedStepValue:"Oscar bu"}}
+29-08-2023 00:03:31.946 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar but"}
+29-08-2023 00:03:31.947 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar but" parameterizedStepValue:"Oscar but"}}
+29-08-2023 00:03:32.865 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar buto"}
+29-08-2023 00:03:32.865 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar buto" parameterizedStepValue:"Oscar buto"}}
+29-08-2023 00:03:33.323 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar buton"}
+29-08-2023 00:03:33.323 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar buton" parameterizedStepValue:"Oscar buton"}}
+29-08-2023 00:03:33.460 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonu"}
+29-08-2023 00:03:33.460 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonu" parameterizedStepValue:"Oscar butonu"}}
+29-08-2023 00:03:33.591 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonun"}
+29-08-2023 00:03:33.591 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonun" parameterizedStepValue:"Oscar butonun"}}
+29-08-2023 00:03:34.098 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna"}
+29-08-2023 00:03:34.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna" parameterizedStepValue:"Oscar butonuna"}}
+29-08-2023 00:03:35.020 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonunat"}
+29-08-2023 00:03:35.020 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonunat" parameterizedStepValue:"Oscar butonunat"}}
+29-08-2023 00:03:36.370 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna t"}
+29-08-2023 00:03:36.370 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna t" parameterizedStepValue:"Oscar butonuna t"}}
+29-08-2023 00:03:36.379 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:03:36.379 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"}}
+29-08-2023 00:03:36.379 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:03:36.379 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:03:36.380 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:03:36.380 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"}}
+29-08-2023 00:03:36.380 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:03:36.380 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:03:36.562 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna ti"}
+29-08-2023 00:03:36.562 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna ti" parameterizedStepValue:"Oscar butonuna ti"}}
+29-08-2023 00:03:36.869 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna tik"}
+29-08-2023 00:03:36.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna tik" parameterizedStepValue:"Oscar butonuna tik"}}
+29-08-2023 00:03:37.077 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna tikl"}
+29-08-2023 00:03:37.077 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna tikl" parameterizedStepValue:"Oscar butonuna tikl"}}
+29-08-2023 00:03:37.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna tikla"}
+29-08-2023 00:03:37.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna tikla" parameterizedStepValue:"Oscar butonuna tikla"}}
+29-08-2023 00:03:37.963 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna tiklan"}
+29-08-2023 00:03:37.963 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna tiklan" parameterizedStepValue:"Oscar butonuna tiklan"}}
+29-08-2023 00:03:38.405 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna tiklani"}
+29-08-2023 00:03:38.405 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna tiklani" parameterizedStepValue:"Oscar butonuna tiklani"}}
+29-08-2023 00:03:38.651 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna tiklanil"}
+29-08-2023 00:03:38.651 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna tiklanil" parameterizedStepValue:"Oscar butonuna tiklanil"}}
+29-08-2023 00:03:38.837 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna tiklanili"}
+29-08-2023 00:03:38.837 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna tiklanili" parameterizedStepValue:"Oscar butonuna tiklanili"}}
+29-08-2023 00:03:38.969 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Oscar butonuna tiklanilir"}
+29-08-2023 00:03:38.969 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"}}
+29-08-2023 00:04:11.858 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+29-08-2023 00:30:19.963 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+29-08-2023 00:33:03.000 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+29-08-2023 00:37:17.815 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+29-08-2023 00:37:21.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.308 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.436 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.436 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.437 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.502 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.605 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.605 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.697 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.697 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.698 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.698 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.757 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.757 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:21.757 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:21.758 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:25.012 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+29-08-2023 00:37:34.470 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.470 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.472 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.473 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.540 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.540 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.541 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.541 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.595 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.596 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.596 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.842 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.843 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.844 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.844 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.917 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.917 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.917 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.917 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.929 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.929 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.929 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.929 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:34.994 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:34.994 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:35.019 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:35.019 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:35.019 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:35.020 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:35.074 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:35.074 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:35.078 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:35.078 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:35.078 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 00:37:35.078 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 00:37:35.196 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"“Event History” başlığı altında “1929” değeri seçilir"}
+29-08-2023 00:37:35.196 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"“Event History” başlığı altında “1929” değeri seçilir" parameterizedStepValue:"“Event History” başlığı altında “1929” değeri seçilir"}}
+29-08-2023 00:37:37.115 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History” başlığı altında “1929” değeri seçilir"}
+29-08-2023 00:37:37.115 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History” başlığı altında “1929” değeri seçilir" parameterizedStepValue:"Event History” başlığı altında “1929” değeri seçilir"}}
+29-08-2023 00:37:40.056 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History başlığı altında “1929” değeri seçilir"}
+29-08-2023 00:37:40.057 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History başlığı altında “1929” değeri seçilir" parameterizedStepValue:"Event History başlığı altında “1929” değeri seçilir"}}
+29-08-2023 00:37:40.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History başslığı altında “1929” değeri seçilir"}
+29-08-2023 00:37:40.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History başslığı altında “1929” değeri seçilir" parameterizedStepValue:"Event History başslığı altında “1929” değeri seçilir"}}
+29-08-2023 00:37:40.984 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:40.984 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:40.984 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:40.984 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:40.985 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:40.985 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:40.985 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:40.985 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:41.556 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History balığı altında “1929” değeri seçilir"}
+29-08-2023 00:37:41.556 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History balığı altında “1929” değeri seçilir" parameterizedStepValue:"Event History balığı altında “1929” değeri seçilir"}}
+29-08-2023 00:37:41.736 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History baslığı altında “1929” değeri seçilir"}
+29-08-2023 00:37:41.736 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History baslığı altında “1929” değeri seçilir" parameterizedStepValue:"Event History baslığı altında “1929” değeri seçilir"}}
+29-08-2023 00:37:41.743 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:41.744 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{} allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"}}
+29-08-2023 00:37:41.744 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:41.744 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:41.745 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:41.745 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:41.745 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:41.745 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:42.373 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History baslğı altında “1929” değeri seçilir"}
+29-08-2023 00:37:42.373 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History baslğı altında “1929” değeri seçilir" parameterizedStepValue:"Event History baslğı altında “1929” değeri seçilir"}}
+29-08-2023 00:37:43.020 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basliğı altında “1929” değeri seçilir"}
+29-08-2023 00:37:43.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basliğı altında “1929” değeri seçilir" parameterizedStepValue:"Event History basliğı altında “1929” değeri seçilir"}}
+29-08-2023 00:37:43.031 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:43.031 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:43.036 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:43.036 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:43.037 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:43.037 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:43.038 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:43.038 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:44.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basliğ altında “1929” değeri seçilir"}
+29-08-2023 00:37:44.047 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basliğ altında “1929” değeri seçilir" parameterizedStepValue:"Event History basliğ altında “1929” değeri seçilir"}}
+29-08-2023 00:37:44.179 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basli altında “1929” değeri seçilir"}
+29-08-2023 00:37:44.179 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basli altında “1929” değeri seçilir" parameterizedStepValue:"Event History basli altında “1929” değeri seçilir"}}
+29-08-2023 00:37:44.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History baslig altında “1929” değeri seçilir"}
+29-08-2023 00:37:44.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History baslig altında “1929” değeri seçilir" parameterizedStepValue:"Event History baslig altında “1929” değeri seçilir"}}
+29-08-2023 00:37:44.839 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:44.839 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:44.839 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:44.839 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:44.841 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:44.841 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:44.841 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:44.841 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:44.968 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basligi altında “1929” değeri seçilir"}
+29-08-2023 00:37:44.968 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basligi altında “1929” değeri seçilir" parameterizedStepValue:"Event History basligi altında “1929” değeri seçilir"}}
+29-08-2023 00:37:47.607 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basligi altnda “1929” değeri seçilir"}
+29-08-2023 00:37:47.607 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basligi altnda “1929” değeri seçilir" parameterizedStepValue:"Event History basligi altnda “1929” değeri seçilir"}}
+29-08-2023 00:37:47.876 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basligi altinda “1929” değeri seçilir"}
+29-08-2023 00:37:47.876 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basligi altinda “1929” değeri seçilir" parameterizedStepValue:"Event History basligi altinda “1929” değeri seçilir"}}
+29-08-2023 00:37:47.884 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:47.884 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:47.884 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:47.884 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:47.885 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:47.885 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:47.885 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:47.885 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:49.675 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basligi altinda 1929” değeri seçilir"}
+29-08-2023 00:37:49.675 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basligi altinda 1929” değeri seçilir" parameterizedStepValue:"Event History basligi altinda 1929” değeri seçilir"}}
+29-08-2023 00:37:50.906 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basligi altinda 1929 değeri seçilir"}
+29-08-2023 00:37:50.906 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basligi altinda 1929 değeri seçilir" parameterizedStepValue:"Event History basligi altinda 1929 değeri seçilir"}}
+29-08-2023 00:37:53.561 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basligi altinda 1929 değeri seilir"}
+29-08-2023 00:37:53.561 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basligi altinda 1929 değeri seilir" parameterizedStepValue:"Event History basligi altinda 1929 değeri seilir"}}
+29-08-2023 00:37:53.756 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Event History basligi altinda 1929 değeri secilir"}
+29-08-2023 00:37:53.756 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Event History basligi altinda 1929 değeri secilir" parameterizedStepValue:"Event History basligi altinda 1929 değeri secilir"}}
+29-08-2023 00:37:53.764 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:53.764 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{} allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"}}
+29-08-2023 00:37:53.765 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:53.765 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:37:53.765 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 00:37:53.765 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{}}
+29-08-2023 00:37:53.766 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 00:37:53.766 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 00:38:34.844 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+29-08-2023 01:01:03.911 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec
+29-08-2023 01:01:04.313 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.314 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.321 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.321 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.445 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.445 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.445 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.446 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.508 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.509 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.509 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.510 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.617 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.630 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.630 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.631 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.631 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.703 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.703 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.704 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.704 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.762 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.763 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.763 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.797 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.797 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.797 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.797 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.859 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.859 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.860 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.919 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.919 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.994 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.994 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:04.995 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+29-08-2023 01:01:04.995 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+29-08-2023 01:01:05.359 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"“The Jazz Singer”"}
+29-08-2023 01:01:05.359 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"“The Jazz Singer”" parameterizedStepValue:"“The Jazz Singer”"}}
+29-08-2023 01:01:06.550 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"“The Jazz Singer"}
+29-08-2023 01:01:06.550 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"“The Jazz Singer" parameterizedStepValue:"“The Jazz Singer"}}
+29-08-2023 01:01:07.287 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"“The Jazz Singe"}
+29-08-2023 01:01:07.287 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"“The Jazz Singe" parameterizedStepValue:"“The Jazz Singe"}}
+29-08-2023 01:01:08.353 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 01:01:08.353 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{stepValue:"Event History basligi altinda 1929 değeri secilir" parameterizedStepValue:"Event History basligi altinda 1929 değeri secilir"}}
+29-08-2023 01:01:08.353 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 01:01:08.353 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 01:01:08.355 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 01:01:08.355 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Event History basligi altinda 1929 değeri secilir" parameterizedStepValue:"Event History basligi altinda 1929 değeri secilir"} allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"}}
+29-08-2023 01:01:08.355 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 01:01:08.355 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 01:01:10.611 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer"}
+29-08-2023 01:01:10.612 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer" parameterizedStepValue:"The Jazz Singer"}}
+29-08-2023 01:01:12.997 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer f"}
+29-08-2023 01:01:12.997 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer f" parameterizedStepValue:"The Jazz Singer f"}}
+29-08-2023 01:01:13.004 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 01:01:13.004 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{stepValue:"Event History basligi altinda 1929 değeri secilir" parameterizedStepValue:"Event History basligi altinda 1929 değeri secilir"}}
+29-08-2023 01:01:13.005 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 01:01:13.005 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 01:01:13.005 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 01:01:13.006 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{stepValue:"Event History basligi altinda 1929 değeri secilir" parameterizedStepValue:"Event History basligi altinda 1929 değeri secilir"}}
+29-08-2023 01:01:13.006 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 01:01:13.006 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 01:01:13.090 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer fi"}
+29-08-2023 01:01:13.091 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer fi" parameterizedStepValue:"The Jazz Singer fi"}}
+29-08-2023 01:01:13.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer fil"}
+29-08-2023 01:01:13.668 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer fil" parameterizedStepValue:"The Jazz Singer fil"}}
+29-08-2023 01:01:13.926 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer film"}
+29-08-2023 01:01:13.926 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer film" parameterizedStepValue:"The Jazz Singer film"}}
+29-08-2023 01:01:14.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer filmi"}
+29-08-2023 01:01:14.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer filmi" parameterizedStepValue:"The Jazz Singer filmi"}}
+29-08-2023 01:01:14.880 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer filmi s"}
+29-08-2023 01:01:14.880 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer filmi s" parameterizedStepValue:"The Jazz Singer filmi s"}}
+29-08-2023 01:01:14.887 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 01:01:14.887 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{stepValue:"Event History basligi altinda 1929 değeri secilir" parameterizedStepValue:"Event History basligi altinda 1929 değeri secilir"} allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"}}
+29-08-2023 01:01:14.888 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 01:01:14.888 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 01:01:14.888 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+29-08-2023 01:01:14.888 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Imdb sayfasi acilir" parameterizedStepValue:"Imdb sayfasi acilir"} allSteps:{stepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir" parameterizedStepValue:"Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir"} allSteps:{stepValue:"Oscar butonuna tiklanilir" parameterizedStepValue:"Oscar butonuna tiklanilir"} allSteps:{stepValue:"Event History basligi altinda 1929 değeri secilir" parameterizedStepValue:"Event History basligi altinda 1929 değeri secilir"}}
+29-08-2023 01:01:14.889 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+29-08-2023 01:01:14.889 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+29-08-2023 01:01:15.017 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer filmi se"}
+29-08-2023 01:01:15.017 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer filmi se" parameterizedStepValue:"The Jazz Singer filmi se"}}
+29-08-2023 01:01:15.399 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer filmi sec"}
+29-08-2023 01:01:15.399 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer filmi sec" parameterizedStepValue:"The Jazz Singer filmi sec"}}
+29-08-2023 01:01:15.589 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer filmi seci"}
+29-08-2023 01:01:15.589 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer filmi seci" parameterizedStepValue:"The Jazz Singer filmi seci"}}
+29-08-2023 01:01:15.824 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer filmi secil"}
+29-08-2023 01:01:15.825 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer filmi secil" parameterizedStepValue:"The Jazz Singer filmi secil"}}
+29-08-2023 01:01:16.062 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer filmi secili"}
+29-08-2023 01:01:16.063 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer filmi secili" parameterizedStepValue:"The Jazz Singer filmi secili"}}
+29-08-2023 01:01:16.142 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"The Jazz Singer filmi secilir"}
+29-08-2023 01:01:16.142 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"The Jazz Singer filmi secilir" parameterizedStepValue:"The Jazz Singer filmi secilir"}}
+29-08-2023 01:01:45.838 [Gauge] [DEBUG] Spec file added / modified: /Users/zeynepturhan/Documents/GitHub/imdb/specs/scenario1.spec

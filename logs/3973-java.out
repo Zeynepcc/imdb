@@ -1,0 +1,53 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+{"logLevel":"debug","message":"gauge-java took 920milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 920"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 56477"}
+{"logLevel":"info","message":"Listening on port:56477"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'CategoryPageStep.step2' and 'CategoryPageStep.step2'"}
+{"logLevel":"debug","message":"Found Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'CategoryPageStep.step3' and 'CategoryPageStep.step3'"}
+{"logLevel":"debug","message":"Found Oscar butonuna tiklanilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'CategoryPageStep.step1' and 'CategoryPageStep.step1'"}
+{"logLevel":"debug","message":"Found Imdb sayfasi acilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'HomeSteps.OpenSite' and 'HomeSteps.OpenSite'"}
+{"logLevel":"debug","message":"Found Open WebSite in current project scope."}
+{"logLevel":"debug","message":"Comparing 'CategoryPageStep.step4' and 'CategoryPageStep.step4'"}
+{"logLevel":"debug","message":"Found Event History basligi altinda 1929 değeri secilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'CategoryPageStep.step5' and 'CategoryPageStep.step5'"}
+{"logLevel":"debug","message":"Found The Jazz Singer filmi secilir in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tOscar butonuna tiklanilir : public void step3()"}
+{"logLevel":"debug","message":"\tThe Jazz Singer filmi secilir : public void step5()"}
+{"logLevel":"debug","message":"\tArama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir : public void step2()"}
+{"logLevel":"debug","message":"\tEvent History basligi altinda 1929 değeri secilir : public void step4() throws InterruptedException"}
+{"logLevel":"debug","message":"\tOpen WebSite : public void OpenSite()"}
+{"logLevel":"debug","message":"\tImdb sayfasi acilir : public void step1()"}
+Starting ChromeDriver 116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382}) on port 60905
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Ağu 29, 2023 1:12:30 ÖÖ org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Ağu 29, 2023 1:12:30 ÖÖ org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: a no-op implementation
+Ağu 29, 2023 1:12:30 ÖÖ org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 116.
+Ağu 29, 2023 1:12:30 ÖÖ org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.1.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+{"logLevel":"debug","message":"Executing 'Imdb sayfasi acilir' using 'class CategoryPageStep.step1"}
+{"logLevel":"debug","message":"Executing 'Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir' using 'class CategoryPageStep.step2"}
+{"logLevel":"debug","message":"Executing 'Oscar butonuna tiklanilir' using 'class CategoryPageStep.step3"}
+{"logLevel":"debug","message":"Executing 'Event History basligi altinda 1929 değeri secilir' using 'class CategoryPageStep.step4"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
