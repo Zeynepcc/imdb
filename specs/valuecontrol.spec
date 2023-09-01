@@ -13,6 +13,12 @@ Menüden Bulunan Filmle Arama Çubuğu Üzerinden Bulunan Film Özellikleri Ayn�
 *Oscar butonuna tiklanilir
 *Event History basligi altinda 1929 değeri secilir
 *The Jazz Singer filmi secilir
-
+*Film bilgileri dosyada tutulur
+*Imbd butonuna tiklanip anasayfaya gidilir
+*Film aratilir
+*Cikan sonuna tiklanilir
+*Datalarin dogrulugu karsilastirilir
+*Galeriye gidilir
+*Linklerin kirik olmadigi gorulur
 
 
