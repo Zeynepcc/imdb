@@ -16,7 +16,7 @@ Menüden Bulunan Filmle Arama Çubuğu Üzerinden Bulunan Film Özellikleri Ayn�
 *Film bilgileri dosyada tutulur
 *Imbd butonuna tiklanip anasayfaya gidilir
 *Film aratilir
-*Cikan sonuna tiklanilir
+*Cikan sonuca tiklanilir
 *Datalarin dogrulugu karsilastirilir
 *Galeriye gidilir
 *Linklerin kirik olmadigi gorulur

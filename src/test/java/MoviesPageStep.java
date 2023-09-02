@@ -3,6 +3,7 @@ import Pages.HomePage;
 import Pages.CategoryPage;
 import com.thoughtworks.gauge.Step;
 import org.junit.Assert;
+import org.openqa.selenium.WebElement;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -14,70 +15,70 @@ public class MoviesPageStep extends BaseConfigPage {
 
 
     @Step("Imdb sayfasi acilir")
-    public void step1() {
+    public void imdbSayfasiAcilir() {
 
         new HomePage(getDriver());
 
     }
 
     @Step("Arama cubugunun sol tarafinda bulunan 'Menu' butonuna basilir")
-    public void step2() {
+    public void menuButonunaBasilir() {
 
         new HomePage(getDriver()).callCategoryPage().clickToMenu();
 
     }
 
     @Step("Oscar butonuna tiklanilir")
-    public void step3() {
+    public void oscarButonunaTiklanilir() {
 
         new CategoryPage(getDriver()).callCategoryPage().clickToOscar();
 
     }
 
     @Step("Event History basligi altinda 1929 değeri secilir")
-    public void step4() throws InterruptedException {
+    public void ilgiliYilSecilir() throws InterruptedException {
 
         new CategoryPage(getDriver()).callCategoryPage().clickToDate();
 
     }
 
     @Step("The Jazz Singer filmi secilir")
-    public void step5() {
+    public void ilgiliFilmSecilir() {
 
         new CategoryPage(getDriver()).callCategoryPage().clickTheJazzSingerData();
 
     }
 
     @Step("Film bilgileri dosyada tutulur")
-    public void step6() {
+    public void filmBilgileriKaydedilir() {
         new CategoryPage(getDriver()).callCategoryPage().saveTheInfo();
     }
 
     @Step("Imbd butonuna tiklanip anasayfaya gidilir")
-    public void step7() {
+    public void anasayfayaGidilir() {
 
         new CategoryPage(getDriver()).callCategoryPage().returnToHomePage();
     }
 
-    @Step("Cikan sonuna tiklanilir")
-    public void step9() {
+    @Step("Cikan sonuca tiklanilir")
+    public void sonucaTiklanilir() {
         new CategoryPage(getDriver()).callCategoryPage().clickToCurrentMovie();
     }
 
     @Step("Datalarin dogrulugu karsilastirilir")
-    public void step10() throws IOException {
+    public void datalarKarsilastirilir() throws IOException {
         Assert.assertTrue(new CategoryPage(getDriver()).callCategoryPage().compareData());
     }
 
     @Step("Galeriye gidilir")
-    public void step11() throws InterruptedException {
+    public void galeriyeGidilir() throws InterruptedException {
         new CategoryPage(getDriver()).callCategoryPage().goToGallery();
     }
 
     @Step("Linklerin kirik olmadigi gorulur")
-    public void implementation1() {
+    public void kirikLinkKontrolEdilir() {
 
-        //yap
+        new CategoryPage(getDriver()).callCategoryPage().linkBrokenControl();
 
     }
 }

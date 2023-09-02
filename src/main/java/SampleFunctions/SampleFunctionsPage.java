@@ -91,6 +91,11 @@ public class SampleFunctionsPage {
         untilElementLocated(By.cssSelector(s));
         return getDriver().findElements(By.cssSelector(s));
     }
+    public int getElementsSelectorsize(String s)
+    {
+        untilElementLocated(By.cssSelector(s));
+        return getDriver().findElements(By.cssSelector(s)).size();
+    }
     public void KeyBoardClick(By by)
     {
         untilElementLocated(by);

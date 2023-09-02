@@ -1,11 +1,16 @@
 package Pages;
 
 import SampleFunctions.SampleFunctionsPage;
+import TestConfig.SettingsLinkClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 import java.io.*;
+import java.util.List;
 import java.util.Properties;
+
+import static TestConfig.SettingsLinkClass.verifyLinks;
 
 public class CategoryPage extends SampleFunctionsPage {
 
@@ -93,6 +98,23 @@ public class CategoryPage extends SampleFunctionsPage {
         Thread.sleep(2000);
         clickElement(By.cssSelector("  div > section  section:nth-child(7) div.ipc-sub-grid.ipc-sub-grid--page-span-2.ipc-sub-grid--nowrap.ipc-shoveler__grid > div:nth-child(1) > a"));
         clickElement(By.cssSelector(".fGsyYo > a"));
+    }
+    public boolean linkBrokenControl()
+    {
+        boolean deger = true;
+        List<WebElement> links = getDriver().findElements(By.cssSelector("#media_index_thumbnail_grid > a"));
+        for(int i=0;i < links.size();i++)
+        {
+            WebElement E1= links.get(i);
+            String url= E1.getAttribute("href");
+            if (verifyLinks(url)== false)
+            {
+                deger = false;
+                break;
+            }
+
+        }
+        return deger;
     }
 }
 
